@@ -5,4 +5,10 @@
 ## Screenshots
 
 **Login Page**: User can by using email and password.
+
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/login.png)
+
+**Forgot Password Page**: User can by using email and password.
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/forgot-password.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/forgot-password01.png)
