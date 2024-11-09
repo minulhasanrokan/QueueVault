@@ -1,3 +1,5 @@
+<p><b>About:</b> – Queue Management System (QueueVault) is an application to help banking and other where people have to wait in queue to services. Built with Laravel 11, MySQL, and Redis, QueueVault streamlines customer flow, reduces wait times, and enhances service experience.</p>
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
