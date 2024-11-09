@@ -8,7 +8,17 @@
 
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/login.png)
 
-**Forgot Password Page**: User can by using email and password.
+**Forgot Password Page**:
 
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/forgot-password.png)
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/forgot-password01.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/reset-password.png)
+
+**Add Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/Add.png)
+
+**Edit Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/edit.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/save_alert.png)
