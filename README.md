@@ -4,6 +4,10 @@
 
 ## Screenshots
 
+**Dashboard**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/dashboard.png)
+
 **Login Page**: User can by using email and password.
 
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/login.png)
