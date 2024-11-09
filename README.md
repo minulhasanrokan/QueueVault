@@ -22,3 +22,22 @@
 
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/edit.png)
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/save_alert.png)
+
+**Set User Manu Right Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/set_menu_right.png)
+
+**Registration and Display Url Create Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/create_reg_url.png)
+
+**Registration and Display Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/reg_page.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/display.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/token.png)
+
+**Call Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/call_page.png)
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/calllist.png)
