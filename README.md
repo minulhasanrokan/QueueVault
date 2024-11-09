@@ -37,6 +37,10 @@
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/edit.png)
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/save_alert.png)
 
+**Grid Page**:
+
+![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/grid.png)
+
 **Set User Manu Right Page**:
 
 ![index](https://github.com/minulhasanrokan/QueueVault/blob/main/public/dummyimage/set_menu_right.png)
